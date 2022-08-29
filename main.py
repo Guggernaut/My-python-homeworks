@@ -1,2 +1,2 @@
-with open('docs.txt', 'x') as file:
-    file.write("")
+with open('docs.txt', 'w') as file:
+    file.write("Answer")
